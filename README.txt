@@ -2,12 +2,11 @@
        ASSEMBLY LANGUAGE PROGRAMMING - LAB SUBMISSION
 ============================================================
 
-Student Name : ___________________________
-Roll Number  : ___________________________
-Section      : ___________________________
+Student Name : Tamanna Afrin
+Roll NO      :0432320005101025
+Section      :6A1
 Course       : Computer Organization & Assembly Language
-Date         : ___________________________
-
+Date         : 13/06/2026
 ============================================================
 CONTENTS OF THIS SUBMISSION
 ============================================================
